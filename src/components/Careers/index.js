@@ -85,7 +85,7 @@ class Careers extends React.Component {
 
           <HeroContent className="flex flex-col 	justify-items-end lg:w-1/2">
             <ContainerMain>
-              <HeroP>Start your career at Kalway</HeroP>
+              <HeroP>Start your career at KALWAY</HeroP>
               <a href="/Contact">
                 <button class="btn">
                   <span class="btn-text">Contact us</span>

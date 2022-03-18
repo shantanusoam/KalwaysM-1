@@ -25,7 +25,7 @@ export const Numbers = styled.div`
   justify-content: space-between;
   align-items: center;
   flex-direction: row;
-  padding-left: 3rem;
+  padding-left: 3.7rem;
   text-align: center;
   color: #00e700;
 `;

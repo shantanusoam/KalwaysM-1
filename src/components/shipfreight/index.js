@@ -146,7 +146,7 @@ const shipfreight = ({}) => {
                   transportation costs and reduce your CO2 emissions by over 30%
                   compared to over-the-road shipping alone. It’s a smart way to
                   create an intermodal freight solution that keeps your business
-                  running more efficiently.
+                  Running more efficiently.
                 </p>
               </div>
               <div className="flex flex-col items-start">

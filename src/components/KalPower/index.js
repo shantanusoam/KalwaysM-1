@@ -87,7 +87,7 @@ class KalPower extends React.Component {
           <HeroContent className="flex flex-col 	justify-items-end lg:w-1/2">
             <ContainerMain>
               <HeroP>KALPOWER</HeroP>
-              <p className="text-white text-xl pb-6">Keep You running</p>
+              <p className="text-white text-xl pb-6">Keep You Running</p>
               <a href="/Contact" target="_blank">
                 <button class="btn">
                   <span class="btn-text">Contact us</span>
